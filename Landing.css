@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#Mission {
+    font: bold 40px tahoma;
+    color: orange;
+	padding: 60px;
+	
+}
+
+
+h2 {
+    font: 40px tahoma;
+    color: black;
+}
+
+header, footer {
+    display: block;
+}
+
+body {
+    display: -webkit-box;
+    -webkit-box-pack: center; 
+    width: 100%;
+}
+
+#big_wrapper {
+    width: 1000px;
+    margin: 20px auto;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-box-flex: 1;    
+}
+
+#top_header {
+    background: cream;
+    border: 3px solid green;
+	width:100%;
+}
+
+#top_menu {
+    border:1px solid orange;
+    background: purple;
+    color: white;
+}
+
+#top_menu li {
+    display: inline-block;
+    padding: 5px;
+    font: 17px tahoma;
+    list-style: none;
+}
+#Message {
+	background: #1f903f;
+	<!--position: absolute;-->
+	width: 100%;
+	<!--top:35%;-->
+}
+
+#Why {
+    background: cream;
+	padding: 50px;
+}
+
+#Why li {
+	font: 30px tahoma; 
+}
+
+#the_footer {
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid green;
+}
+
+.DRSapp_logo
+{
+	float: right;
+}
+.message_logo
+{
+	float:right;
+}
+.Showcase
+{
+	float: right;
+}
