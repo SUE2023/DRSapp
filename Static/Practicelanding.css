@@ -43,12 +43,13 @@ body {
     border:1px solid orange;
     background: purple;
     color: white;
+	padding: 20px;
 }
 
 #top_menu li {
     display: inline-block;
     padding: 5px;
-    font: 17px tahoma;
+    font: 25px tahoma;
     list-style: none;
 }
 #Message {
