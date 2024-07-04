@@ -4,7 +4,7 @@
 }
 #Mission {
     font: bold 30px tahoma;
-    color: orange;
+    color: black;
 	/*margin: 60px; */
 }
 
@@ -98,10 +98,10 @@ body {
 {
 	float:right;
 }
-.Showcase
+/*.Showcase
 {
 	float: right;
-}
+}*/
 
 #Value
 {
